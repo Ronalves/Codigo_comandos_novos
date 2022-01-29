@@ -1,6 +1,5 @@
   METHOD /bobf/if_frw_determination~execute.
 
-*   Israel Balam/MGS Consulting.
 
 *   is_ctx IMPORTING TYPE /bobf/s_frw_ctx_det
 *   it_key IMPORTING TYPE /bobf/t_frw_key
